@@ -7,6 +7,7 @@ import { redirect } from "next/navigation";
 
 
 
+
 interface pageProps{
     params: {id:string}
 }
