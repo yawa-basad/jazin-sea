@@ -44,11 +44,11 @@ export async function generateMetadata(
   }
 }
  
-export async function peste({ params, searchParams }: Props 
+// export async function peste({ params, searchParams }: Props 
     
-) {
+// ) {
 
-}
+// }
 
 export default function RootLayout({
     children,
