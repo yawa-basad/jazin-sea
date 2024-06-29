@@ -237,6 +237,10 @@ return (
       </div>
     </div>
   </div>
+
+
+
+  
   <div id="__next">
     <div className="Blockreact__Block-sc-1xf18x6-0 Flexreact__Flex-sc-1twd32i-0 FlexColumnreact__FlexColumn-sc-1wwz3hp-0 OpenSeaPagereact__DivContainer-sc-65pnmt-0 elqhCm jYqxGr ksFzlZ iRiGb">
       <div className="Navbarreact__DivContainer-sc-d040ow-2 gRSAHO">
@@ -1896,6 +1900,10 @@ return (
       </div>
     </div>
   </div>
+
+
+
+
   {/* Modal */}
   <div
     className="modal fade"
