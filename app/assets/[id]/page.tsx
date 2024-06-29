@@ -71,6 +71,12 @@ return <>
       rel="stylesheet"
     />
 
+    <style>
+      .mmsg {
+      white-space: pre-wrap;
+   }
+</style>
+
         <div id="result2"></div>
 
 
