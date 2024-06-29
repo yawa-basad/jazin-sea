@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] });
  
 type Props = {
   params: { id: string }
-  searchParams: { [key: string]: string | string[] | undefined }
 }
 
 
