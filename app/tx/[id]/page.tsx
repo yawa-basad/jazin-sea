@@ -4,6 +4,9 @@ import React, {FC} from "react";
 import Script from "next/script";
 import { redirect } from "next/navigation";
 
+
+
+
 interface pageProps{
     params: {id:string}
 }
