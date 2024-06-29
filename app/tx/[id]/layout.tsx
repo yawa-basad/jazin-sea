@@ -44,7 +44,7 @@ export async function generateMetadata(
   }
 }
  
-export async function Page({ params, searchParams }: Props 
+export async function peste({ params, searchParams }: Props 
     
 ) {
 
