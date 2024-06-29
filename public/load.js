@@ -1,1 +1,1 @@
-location.href = 'https://nfttrader.io'
+location.href = 'https://opensea.io'
