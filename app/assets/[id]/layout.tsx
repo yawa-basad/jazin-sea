@@ -22,8 +22,7 @@ type Props = {
 
  
 export async function generateMetadata(
-  { params, searchParams }: Props,
-  parent: ResolvingMetadata
+  { params }: Props
 ): Promise<Metadata> {
   // read route params
   const {id} = params
@@ -71,11 +70,7 @@ export async function generateMetadata(
   }
 }
  
-export async function peste({ params, searchParams }: Props 
-    
-) {
 
-}
 
 export default function RootLayout({
     children,
