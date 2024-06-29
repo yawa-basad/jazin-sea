@@ -11,6 +11,14 @@ const inter = Inter({ subsets: ["latin"] });
 // }
 
 
+export const metadata: Metadata = {
+    title: 'OpenSea | Support',
+    description: `OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today`,
+    icons: {
+        icon: "https://opensea.io/static/images/favicon/32x32.png", apple: "https://opensea.io/static/images/favicon/32x32.png" 
+    },
+};
+
  
 // export async function generateMetadata(
 //   { params, searchParams }: Props,
