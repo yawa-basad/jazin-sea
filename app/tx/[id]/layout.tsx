@@ -47,11 +47,7 @@ export async function generateMetadata(
 export async function Page({ params, searchParams }: Props 
     
 ) {
-        // return (
-        //     <html lang="en">
-        //     <body>{children}</body>
-        //   </html>
-        // )
+
 }
 
 export default function RootLayout({
@@ -61,7 +57,6 @@ export default function RootLayout({
   }>) {
     return (
       <html lang="en">
-        
         <body className={inter.className}>{children}</body>
       </html>
     );
