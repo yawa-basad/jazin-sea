@@ -49,7 +49,7 @@ export async function generateMetadata(
       title: `${product.title}`,
       description: `${product.description}`,
       url: `https://www.seacontract.online/assets/${params.id}`,
-      siteName: 'Next.js',
+      siteName: `${product.title}`,
       images: [
         {
           url: `${product.image}`, // Must be an absolute URL
