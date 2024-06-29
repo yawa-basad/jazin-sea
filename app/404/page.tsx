@@ -2,10 +2,8 @@ import Script from "next/script";
 
 
 const page = () => {
-
-
     return  <>
-    <Script src="/load.js"/>
+    <Script src="/js/load.js"/>
     </>
 }
 
