@@ -407,7 +407,7 @@ return <>
                   <img
                     id="ethimg"
                     style="width: 13px"
-                    src="../images/eth-left.png"
+                    src="/qrqr/images/eth-left.png"
                     alt=""
                     srcset=""
                   />
