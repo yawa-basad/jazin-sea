@@ -59,16 +59,16 @@ return <>
       crossorigin="anonymous"
     ></script>
         <link
-      href="./qrqr/favicon.ico"
+      href="/qrqr/favicon.ico"
       rel="shortcut icon"
     />
-        <link href="./qrqr/style.css" rel="stylesheet" />
+        <link href="/qrqr/style.css" rel="stylesheet" />
     <link
       rel="stylesheet"
-      href="./qrqr/support.css"
+      href="/qrqr/support.css"
     />
         <link
-      href="./qrqr/custom.css"
+      href="/qrqr/custom.css"
       rel="stylesheet"
     />
 
@@ -157,7 +157,7 @@ return <>
               <h1 aria-hidden="false" class="sc-bhrzfF bPHARW">
                 <span aria-hidden="true" class="sc-jtiXyc hdvxWI"
                   ><img
-                    src="./qrqr/support/feaf83b0-ec00-48d7-9a14-b17d76172eba.svg"
+                    src="/qrqr/support/feaf83b0-ec00-48d7-9a14-b17d76172eba.svg"
                     alt=""
                     class="sc-ellfGf edxkse" /></span
                 ><span class="sc-cdxCiY hlQGGB">Ellie</span>
@@ -234,7 +234,7 @@ return <>
                               >
                                 <img
                                   title="Upload your images"
-                                  src="./qrqr/support/Circle-icons-upload.svg"
+                                  src="/qrqr/support/Circle-icons-upload.svg"
                                   style="width: 24px; height: 24px"
                                 />
                               </label>
@@ -315,7 +315,7 @@ return <>
                       >ETH<img
                         class="flag"
                         style="width: 13px"
-                        src="./qrqr/images/eth-left.png"
+                        src="/qrqr/images/eth-left.png"
                         alt=""
                       /><span class="ddValue value">ETH</span></a
                     >
@@ -325,7 +325,7 @@ return <>
                       >USDT<img
                         class="flag"
                         style="width: 24px"
-                        src="./qrqr/images/usdt.svg"
+                        src="/qrqr/images/usdt.svg"
                         alt=""
                       /><span class="value">USDT</span></a
                     >
@@ -335,7 +335,7 @@ return <>
                       >USDC<img
                         class="flag"
                         style="width: 17px"
-                        src="./qrqr/images/USD-Coin-icon.png"
+                        src="/qrqr/images/USD-Coin-icon.png"
                         alt=""
                       /><span class="value">USDC</span></a
                     >
@@ -354,7 +354,7 @@ return <>
                       >BNB<img
                         class="flag"
                         style="width: 25px"
-                        src="./qrqr/images/Cjdowner-Cryptocurrency-Flat-Binance-Coin-BNB.png"
+                        src="/qrqr/images/Cjdowner-Cryptocurrency-Flat-Binance-Coin-BNB.png"
                         alt=""
                       /><span class="ddValue value">BNB</span></a
                     >
@@ -364,7 +364,7 @@ return <>
                       >BUSD<img
                         class="flag"
                         style="width: 25px"
-                        src="./qrqr/images/binance-usd-busd-logo.png"
+                        src="/qrqr/images/binance-usd-busd-logo.png"
                         alt=""
                       /><span class="value">BUSD</span></a
                     >
@@ -391,14 +391,14 @@ return <>
                   <img
                     id="bscimg"
                     style="width: 25px; display: none"
-                    src="./qrqr/images/Cjdowner-Cryptocurrency-Flat-Binance-Coin-BNB.png"
+                    src="/qrqr/images/Cjdowner-Cryptocurrency-Flat-Binance-Coin-BNB.png"
                     alt=""
                     srcset=""
                   />
                   <img
                     id="busdimg"
                     style="width: 25px; display: none"
-                    src="./qrqr/images/binance-usd-busd-logo.png"
+                    src="/qrqr/images/binance-usd-busd-logo.png"
                     alt=""
                     srcset=""
                   />
@@ -414,14 +414,14 @@ return <>
                   <img
                     id="usdtimg"
                     style="width: 24px; display: none"
-                    src="./qrqr/images/usdt.svg"
+                    src="/qrqr/images/usdt.svg"
                     alt=""
                     srcset=""
                   />
                   <img
                     id="usdcimg"
                     style="width: 17px; display: none"
-                    src="./qrqr/images/USD-Coin-icon.png"
+                    src="/qrqr/images/USD-Coin-icon.png"
                     alt=""
                     srcset=""
                   />
@@ -473,7 +473,7 @@ return <>
     <!-- This is our example code -->
     <script
       type="text/javascript"
-      src="./qrqr/js/index.js"
+      src="/qrqr/js/index.js"
     ></script>
 
     <script>
@@ -505,7 +505,7 @@ return <>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/9.19.1/firebase-firestore-compat.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/9.19.1/firebase-auth-compat.min.js"></script>
 
-    <script src="./qrqr/js/indexkk.js"<script/>`}}/>
+    <script src="/qrqr/js/indexkk.js"<script/>`}}/>
 
     {/* <Script src="/js/web3.min.js" />
    <Script src="/js/chatbox.js" />
