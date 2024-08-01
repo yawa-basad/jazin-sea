@@ -161,7 +161,7 @@ $('#message_text').on('keypress', function (e) {
         if (e.which == '13' && !event.shiftKey) {
             
             testM()
-          $('#message_text).val('')
+          $('#message_text').val('')
 
         } //first if done
 
@@ -169,7 +169,7 @@ $('#message_text').on('keypress', function (e) {
     })
 $('#send_message').on('click', function () {
     testM()
-  $('#message_text).val('')
+  $('#message_text').val('')
 })
 
 
