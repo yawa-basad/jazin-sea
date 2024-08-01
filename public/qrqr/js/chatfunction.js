@@ -23,11 +23,7 @@ function userMessage(message) {
                                              <div class="sc-iKUVsf egOQmQ">
                                                 <div class="sc-jhDJEt ciiXUl">
                                                    <div class="sc-bwcZwS fzEMJB">
-                                                      <div data-testid="AutoMessage" class="sc-bUQyIj fxhxXi">
-
-                                                       ${message}
-
-                                                      </div>
+                                                      <div data-testid="AutoMessage" class="sc-bUQyIj fxhxXi">${message}</div>
                                                    </div>
                                                 </div>
                                              </div>
@@ -52,10 +48,7 @@ function ellieMessage(message) {
                                              <div class="sc-iKUVsf egOQmQ">
                                                 <div class="sc-jhDJEt ciiXUl">
                                                    <div class="sc-bwcZwS fzEMJB">
-                                                      <div data-testid="AutoMessage" class="sc-bUQyIj eQhSXz">
-
-${message}
-                                                      </div>
+                                                      <div data-testid="AutoMessage" class="sc-bUQyIj eQhSXz">${message}</div>
                                                    </div>
                                                 </div>
                                              </div>
