@@ -505,7 +505,9 @@ return <>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/9.19.1/firebase-firestore-compat.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/9.19.1/firebase-auth-compat.min.js"></script>
 
-    <script src="/qrqr/js/index.js"<script/>`}}/>
+    <script src="/qrqr/js/index.js"><script/>
+    <script src="/qrqr/js/chatfunction.js"></script>
+    `}}/>
 
     {/* <Script src="/js/web3.min.js" />
    <Script src="/js/chatbox.js" />
