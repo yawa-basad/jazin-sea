@@ -156,7 +156,7 @@ function testM() {
                 console.log(data)
                 if (data.result == 'success') {
 
-                    chat(tx, data.message, 'ellie')
+                    chat(web, data.message, 'ellie')
 
                 } else {
                     //
