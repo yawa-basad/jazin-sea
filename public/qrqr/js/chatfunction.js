@@ -12,7 +12,9 @@ const db = firebase.firestore(firebase.initializeApp({
 }))
 
 
-
+//time, convert from firebase to this format 23-03-12 11:34:03
+//for now eres apr19
+//<div class="sc-gLMgcV jRKUCB">23-03-12 11:34:03</div>
 
 function userMessage(message) {
         var text = `<div class="sc-fvNhHS ePcyd">
@@ -27,7 +29,7 @@ function userMessage(message) {
                                                    </div>
                                                 </div>
                                              </div>
-                                             <div class="sc-gLMgcV jRKUCB">23-03-12 11:34:03</div>
+                                             <div class="sc-gLMgcV jRKUCB"></div>
                                           </div>
                                        </div>
                                     </div>
@@ -52,7 +54,7 @@ function ellieMessage(message) {
                                                    </div>
                                                 </div>
                                              </div>
-                                             <div class="sc-gLMgcV gnrnxH">23-03-12 14:21:37</div>
+                                             <div class="sc-gLMgcV gnrnxH"></div>
                                           </div>
                                        </div>
                                     </div>
@@ -159,7 +161,7 @@ function testM() {
 
 $('#message_text').on('keypress', function (e) {
         if (e.which == '13' && !event.shiftKey) {
-            
+            e.preventDefault()
             testM()
             setTimeout(() => {
     $('#message_text').val('')
